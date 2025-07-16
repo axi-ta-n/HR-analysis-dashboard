@@ -7,9 +7,7 @@
 ## Links:
 Lets Connect 
 
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
-
-[Go to My Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/HRANALYTICSDASHBOARD-ACOMPLETEEMPLOYEEDATAANALYSIS/HRDashboard?publish=yes)
+[Go to my LinkedIn](https://www.linkedin.com/in/akshita-480a69250) 🌐
 
 ## PROJECT NAME:
 
@@ -93,16 +91,16 @@ Overall, HR Analytics Dashboard project using Tableau is an essential tool for a
 
 I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
 
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
+[Go to my LinkedIn](https://www.linkedin.com/in/akshita-480a69250) 🌐
 
 ## My Other Projects:
 
-- [ATLIQ Sales Insight](https://github.com/gulshang7/ATLIQ_Sales_Insight_Data_Analysis_using_SQL_and_Tableau) 💻
+- [ATLIQ Sales Insight](https://github.com/axi-ta-n/Hardware-sales-insights-dashboard-analysis) 💻
 
-- [Financial Consumer Complaints Data Analysis](https://github.com/gulshang7/Financial-Consumer-Complaints-Data-Analysis-Using-Tableau-Dashboard) 📜
+- [Sales & Customer Performance Dashboard](https://github.com/axi-ta-n/Sales-and-Customer-Dashboard-Analysis) 📜
 
-- [KPI Dashboard of Car Sales Opportunities](https://github.com/gulshang7/KPI_Dashboard_of_Car_sales_Win_Loss_Data_Analysis_using_Excel_and_Tableau) 🛰️
+- [Adidas-sales-analysis](https://github.com/axi-ta-n/Adidas-sales-analysis) 🛰️
 
-- [Github Profile](https://github.com/gulshang7) 🧮
+- [Github Profile](https://github.com/axi-ta-n) 🧮
 
-- [Linkedin](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🤝
+- [Linkedin](https://www.linkedin.com/in/akshita-480a69250) 🤝
